@@ -1,4 +1,1 @@
-# test
-# MedicalRecordTool
-# MedicalRecordTool
 # MedicalRecordTool
